@@ -1,0 +1,2 @@
+# ChatLog
+A logcat viewer 
